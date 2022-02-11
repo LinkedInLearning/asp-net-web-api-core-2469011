@@ -1,0 +1,34 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div>
+    <ul id="products-list"></ul>
+</div>
+
+@section Scripts {
+<script>
+let url = "https://localhost:7026/products";
+let productsList = document.getElementById("products-list");
+
+fetch(url)
+    .then(response => response.json())
+    .then(data => showProducts(data))
+    .catch(ex => {
+        alert("Fehler!");
+        console.error(ex);
+    });
+
+function showProducts(products) {
+    products.forEach(product => {
+        let li = document.createElement("li");
+        let text = `${product.name} (${product.price}€)`;
+        li.appendChild(
+            document.createTextNode(text));
+        productsList.appendChild(li);
+    });
+}
+</script>
+}
