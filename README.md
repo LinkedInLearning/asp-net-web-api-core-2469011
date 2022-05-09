@@ -4,7 +4,7 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs Web APIs mit ASP.NET
 
 ![COURSENAME][lil-thumbnail-url] 
 
-Ob Laptop, Handy, Uhr oder sogar Waschmaschine: Alle internetfähigen Geräte müssen mit einem Server verbunden sein. In den meisten Fällen geschieht das über das HTTP-Protokoll und eine Web-API sorgt dafür, dass über eine einheitliche Schnittstelle mit einem Dienst kommuniziert werden kann. Lernen sie in diesem Videokurs, wie Sie mit ASP.NET Core und .NET 6 eine mächtige REST-API implementieren können, die von allen Clients angesprochen wird. Ihr Trainer Christian Wenz demonstriert Lese- und Schreiboperationen, erläutert verschiedene Arten der API-Versionierung und zeigt unter anderem, wie die API abgesichert werden kann.
+Web-APIs sorgen beim Einsatz von internetfähigen Geräten für die Verbindung zum Server über eine einheitliche Schnittstelle. Lernen Sie in diesem LinkedIn Learning-Kurs, wie Sie mit ASP.NET Core eine mächtige REST-API implementieren, die von allen Clients angesprochen werden kann. Ihr Trainer Christian Wenz erläutert ausführlich Lese- und Schreiboperationen, zeigt verschiedene Arten der API-Versionierung und wie die API abgesichert werden kann. Schritt für Schritt lernen Sie den gesamten .NET-Baukasten kennen, damit Sie schnell und produktiv eine API erstellen können. 
 
 ## Anleitung
 
@@ -30,5 +30,5 @@ _Berater und Unternehmer_
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/christian-wenz?u=104) an.
 
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/web-apis-mit-asp-dot-net-core-in-dot-net-6
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
