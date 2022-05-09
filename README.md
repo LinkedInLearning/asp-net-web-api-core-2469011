@@ -1,8 +1,8 @@
 # Web APIs mit ASP.NET Core in .NET 6
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs Web APIs mit ASP.NET Core in .NET 6. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `Web APIs mit ASP.NET Core in .NET 6`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![COURSENAME][lil-thumbnail-url] 
+<img src="https://github.com/LinkedInLearning/asp-net-web-api-core-2469011/blob/main/SN2469011.jpg?raw=true" />
 
 Web-APIs sorgen beim Einsatz von internetfähigen Geräten für die Verbindung zum Server über eine einheitliche Schnittstelle. Lernen Sie in diesem LinkedIn Learning-Kurs, wie Sie mit ASP.NET Core eine mächtige REST-API implementieren, die von allen Clients angesprochen werden kann. Ihr Trainer Christian Wenz erläutert ausführlich Lese- und Schreiboperationen, zeigt verschiedene Arten der API-Versionierung und wie die API abgesichert werden kann. Schritt für Schritt lernen Sie den gesamten .NET-Baukasten kennen, damit Sie schnell und produktiv eine API erstellen können. 
 
@@ -28,7 +28,7 @@ Der Branch `master` beinhaltet den initialen Quellcode und wird nicht für die �
 
 _Berater und Unternehmer_
 
-Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/christian-wenz?u=104) an.
+Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/christian-wenz) an.
 
 [lil-course-url]: https://www.linkedin.com/learning/web-apis-mit-asp-dot-net-core-in-dot-net-6
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
